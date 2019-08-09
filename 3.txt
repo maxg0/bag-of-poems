@@ -1,0 +1,13 @@
+fågel
+björn
+elefant
+människa
+hamster
+varg
+giraff
+älg
+get
+hund
+katt
+tiger
+delfin
